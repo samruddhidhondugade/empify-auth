@@ -8,6 +8,7 @@ public class EmployeeManagementAuthApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagementAuthApplication.class, args);
+		System.out.println("Welcome");
 	}
 
 }
